@@ -119,12 +119,9 @@ class LevenshteinDistance {
             }
             print("\r")
         }
-        
         print("\n")
         
         curentValue = dist[a.count,b.count]
-        
-        
         print("\n")
         
         
